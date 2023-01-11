@@ -1,2 +1,2 @@
 # Final-Database-Project
-Used Docker to update Databases 
+Normalized Database using SQL with Docker
